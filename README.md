@@ -23,6 +23,10 @@
 
 <p>Todos os exemplos nesta oficina foram desenvolvidos usando o Google Colab.</p>
 
+<h2>Bônus</h2>
+
+<img src="chat.png">
+
 <h2>Exemplo 1 -GTTS</h2>
 
 <p><b>gTTS (Google Text-to-Speech)</b> é uma biblioteca Python que usa a API do Google Translate para poder narrar textos.</p>
