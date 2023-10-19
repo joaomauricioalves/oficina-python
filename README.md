@@ -25,7 +25,7 @@
 
 <h2>Bônus</h2>
 
-<img src="chat.png">
+<img src="chat.png"align="middle">
 
 <h2>Exemplo 1 -GTTS</h2>
 
