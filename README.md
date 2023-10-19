@@ -23,7 +23,7 @@
 
 <p>Todos os exemplos nesta oficina foram desenvolvidos usando o Google Colab.</p>
 
-<h2>Bônus</h2>
+<h2>CHAT</h2>
 
 <img src="chat.png">
 
